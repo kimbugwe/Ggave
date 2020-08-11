@@ -1,0 +1,32 @@
+﻿/* 32.4. Main colors
+   ========================================================================== */
+
+/* Background colors */
+:root {
+    --bg-light-1: #f5f5f5;
+}
+
+:root {
+    --bg-light-2: #f0f0f0;
+}
+
+:root {
+    --bg-dark-1: #001838;
+}
+
+:root {
+    --bg-dark-2: #1b2a2f;
+}
+
+/* Red colors */
+:root {
+    --main-color: #d6bd6d;
+}
+
+.anim-text-double-fill.invert:before {
+    color: #d6bd6d;
+}
+
+body {
+    background-color: #001838;
+}
